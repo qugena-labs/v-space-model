@@ -1,0 +1,16 @@
+# V-Space Model for Urban Hydrological Systems
+# Requirements file for Python dependencies
+
+# Core numerical computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Quantum computing framework
+qiskit>=0.39.0
+qiskit-aer>=0.11.0
+
+# Optional: For enhanced performance
+# numba>=0.56.0
